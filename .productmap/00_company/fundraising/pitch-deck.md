@@ -14,9 +14,11 @@ One line: company name + what you do in plain words. [e.g. "Acme — expense rep
 
 ### 2. Problem
 
-Who has the problem, how painful it is, and what it costs them today. Make it concrete — one vivid example beats three abstractions.
+Designers and visual creators waste a surprising amount of their creative day just finding the right reference. A new project starts with tabs, saved posts, screenshots, folders, and boards — then turns into noisy searching, inconsistent tags, and repeatedly re-finding the same inspiration.
 
-> [Fill in: problem statement + evidence from customer conversations]
+The real problem is not a lack of content. It's that generic storage and search tools don't understand visual taste well enough to surface the right image at the right moment. Before creators can make anything, they have to assemble the inspiration that should have taken minutes.
+
+> [Add evidence from customer conversations: how much time is lost, where references live, and what breaks in current tools]
 
 ### 3. Solution
 
