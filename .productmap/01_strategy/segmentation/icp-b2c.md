@@ -6,51 +6,73 @@ Use this template when you sell to **people**, not buying committees: freemium, 
 
 ## Profile
 
-[Fill in: 2–3 sentence description of the ideal individual customer. Who are they? What are they trying to accomplish? What does a typical day look like?]
+Graphica's strongest B2C ICP is a solo professional visual creator: freelance brand designers, illustrators, concept artists, and other independent creatives who collect, search, and organize visual references constantly. They need faster inspiration discovery, visual similarity search, and a cleaner way to manage moodboards and reference libraries across many sources. The buyer and user are the same person, so self-serve adoption and quick time-to-value matter most.
 
-Example: "An individual professional who [core job-to-be-done]. They [context or constraint]. They want [desired outcome], not [anti-pattern or failed alternative]."
+## Segment Split
 
----
+- **Primary segment:** solo visual creators who need frequent reference collection and fast inspiration discovery.
+- **Secondary segment:** small creative teams, agencies, and in-house creative teams that need shared inspiration libraries and team-based organization.
+- **Lowest-priority segments:** students, hobbyists, general consumers, and enterprise creative orgs.
+
+The first ICP should be the solo professional creator because the pain is frequent, the buyer and user are the same person, and adoption can happen self-serve.
 
 ## Attributes
 
 | Attribute | Description |
 |-----------|-------------|
-| **Role / Title** | [Fill in: e.g., Product Manager, Senior PM, Founder acting as PM, indie maker] |
-| **Seniority / Life stage** | [Fill in: e.g., mid-level (2–5 years), career switcher, student, hobbyist] |
-| **Context** | [Fill in: e.g., startup employee, freelancer, side project, personal use] |
-| **Goals** | [Fill in: what does this person want to achieve — personally or in daily work?] |
-| **Frustrations** | [Fill in: what slows them down or causes stress? What problems are they aware of?] |
-| **Tools Used** | [Fill in: e.g., apps and services they already use in this category] |
-| **Where They Discover** | [Fill in: e.g., social channels, communities, app stores, search, word of mouth] |
-| **Willingness to Pay** | [Fill in: e.g., self-pay up to $X/month; annual vs monthly preference; free-tier expectations] |
+| **Role / Title** | Freelance brand designer, illustrator, concept artist, or independent visual creator |
+| **Seniority / Life stage** | Late 20s to mid-30s; independent professional or small-studio operator |
+| **Context** | Juggles multiple client projects, builds moodboards, and collects references daily |
+| **Goals** | Move faster from inspiration to concept, keep references organized, and avoid wasting time searching for "that one image" |
+| **Frustrations** | Saves images everywhere, loses track of references, search results are noisy, and existing tools feel too generic or too manual |
+| **Tools Used** | Pinterest, Google Images, Instagram saves, browser bookmarks, local folders, Notion, Milanote, Are.na, Adobe/Figma workarounds |
+| **Where They Discover** | Creative communities, design newsletters, social platforms, search, creator forums, and product-led discovery |
+| **Willingness to Pay** | Moderate to strong if it saves time and improves creative quality; best fit for monthly self-serve pricing |
 
----
+## Buyer Persona
+
+### Maya, freelance brand + visual designer
+
+| Attribute | Detail |
+|---|---|
+| **Role** | Freelance brand / visual designer |
+| **Age / stage** | Late 20s to mid-30s, independent or small-studio operator |
+| **Context** | Juggles multiple client projects, builds moodboards, and collects references daily |
+| **Goals** | Move faster from inspiration to concept, keep references organized, and avoid wasting time searching for the right image |
+| **Main frustrations** | Saves images everywhere, loses track of references, search results are noisy, and existing tools feel too generic or too manual |
+| **What she values** | Speed, taste, visual relevance, clean organization, and tools that feel creative rather than administrative |
+| **Purchase trigger** | A new project starts and she needs to collect inspiration quickly, or she feels blocked by messy reference workflows |
+| **Objections** | "Is this actually better than Pinterest?" "Will it find high-quality results?" "Is the mobile app good enough?" |
+| **Where to reach her** | Creative communities, design newsletters, social platforms, creator forums, and product-led discovery through search/social proof |
+| **Message that lands** | "Stop losing inspiration. Find the right visual references faster, keep them organized, and get AI suggestions that match your style." |
 
 ## Behavioral Signals
 
 A user is a strong B2C fit if they exhibit these behaviours:
 
-- [Fill in: e.g., signs up without a sales call and completes core onboarding alone]
-- [Fill in: e.g., returns within the first 7 days and forms a habit loop]
-- [Fill in: e.g., already pays for adjacent consumer or prosumer tools]
-- [Fill in: e.g., shares, refers, or posts about tools they like]
-- [Fill in: e.g., converts from free → paid on a clear value moment]
+- Saves images from many sources and revisits them frequently.
+- Searches by style, color, object, or visual similarity.
+- Builds moodboards and reference libraries for active projects.
+- Adopts self-serve tools without a sales call.
+- Already pays for adjacent prosumer tools and upgrades when a workflow saves time.
+- Works across desktop and mobile and imports assets quickly from the web.
 
 ## Jobs to Be Done
 
-- When [situation], I want to [motivation], so I can [outcome].
-  - [Fill in: e.g., "When I need to prioritise my backlog, I want a structured framework, so I can defend my decisions to stakeholders."]
-- [Fill in: second JTBD]
-- [Fill in: third JTBD]
+- When I'm starting a new project, I want to collect high-quality visual references fast, so I can build a direction without getting blocked.
+- When I need a specific look or image again, I want to rediscover it instantly, so I can avoid searching through folders and tabs.
+- When inspiration is scattered across sources, I want one organized workspace, so I can keep moodboards and references aligned with the project.
+- When I'm exploring style directions, I want AI-assisted similarity and search, so I can find visually relevant inspiration faster than manual browsing.
 
 ## Disqualifiers (B2C)
 
 Exclude individuals who:
 
-- [Fill in: e.g., only evaluate via procurement / RFP and never self-serve]
-- [Fill in: e.g., need enterprise SSO, contracts, or multi-seat admin before trying]
-- [Fill in: e.g., have no recurring personal or discretionary budget for the category]
+- Collect references only occasionally and do not feel strong pain around search or organization.
+- Are students or hobbyists with low willingness to pay.
+- Only want a basic folder or bookmark replacement.
+- Need team collaboration, permissions, or admin controls immediately.
+- Do not value AI-assisted discovery or visual similarity search.
 
 ## Product Map AI Agent
 
